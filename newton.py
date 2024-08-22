@@ -1,4 +1,4 @@
-# not finished.buggy
+# not finished
 e = 0.0001
 
 def f(x):
